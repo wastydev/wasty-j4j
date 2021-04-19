@@ -1,0 +1,11 @@
+{
+  "name": "wasty-j4j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wasty.js",
+  "scripts": {
+    "test": "node wasty.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
